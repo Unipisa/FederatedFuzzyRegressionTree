@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.csv
+*.dat
+*.txt
+*.log
+*.lock
+datasets/
 # C extensions
 *.so
 
